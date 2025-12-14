@@ -33,32 +33,6 @@ El proyecto está organizado por ejercicios, facilitando su comprensión, ejecuc
 
 ---
 
-## Estructura del proyecto
-
-evaluacion-final-ip-python/
-├── README.md
-├── requirements.txt
-├── procesador.py
-├── usuarios.txt
-├── usuarios_limpios.csv
-├── scrum.md
-├── notebooks/
-│ └── ml_clasificacion_iris.ipynb
-├── django_project/
-│ ├── manage.py
-│ ├── config/
-│ └── notas/
-└── frontend/
-└── html/
-├── index.html
-├── css/
-│ └── styles.css
-└── js/
-└── script.js
-
-
----
-
 ## Ejercicio 1 – GitHub y Markdown
 
 - Creación de un repositorio profesional en GitHub
