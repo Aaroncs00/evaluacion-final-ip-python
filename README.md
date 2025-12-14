@@ -1,26 +1,15 @@
 # Evaluación Final – IP Python
 
-**Autor:** Aaron Carvajal Serrano  
-**Curso:** IP_IAPython_1  
-**Modalidad:** Trabajo individual no presencial  
-**Repositorio:** evaluacion-final-ip-python  
+Autor: Aaron Carvajal Serrano  
+Curso: IP_IAPython_1
 
----
-
-## Descripción del proyecto
-
-Este repositorio contiene la **evaluación final del curso IP Python**, donde se desarrollan distintos ejercicios prácticos relacionados con:
-
-- Procesamiento de datos con Python y expresiones regulares
-- Desarrollo backend con Django
-- Machine Learning con scikit-learn
-- Desarrollo frontend con HTML, CSS y JavaScript
-- Simulación de trabajo con metodología Scrum
-- Uso de GitHub y documentación en Markdown
-
-Cada ejercicio se encuentra organizado dentro del proyecto para facilitar su revisión y ejecución.
-
----
+## Descripción
+Proyecto de evaluación final que incluye:
+- Procesamiento de datos con Python
+- Aplicación Django
+- Ejercicio de Machine Learning
+- Interfaz frontend
+- Simulación Scrum
 
 ## Tecnologías utilizadas
 
