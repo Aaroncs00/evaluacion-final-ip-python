@@ -2,7 +2,6 @@
 
 **Autor:** Aaron Carvajal Serrano  
 **Curso:** IP_IAPython_1  
-**Tipo:** Trabajo individual no presencial  
 
 ---
 
@@ -82,7 +81,7 @@ Archivo principal: **`procesador.py`**
 
 ### Ejecución
 Desde la raíz del proyecto:
-```bash
+
 python procesador.py
 
 Ejercicio 3 – Mini aplicación Django (Notas)
