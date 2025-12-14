@@ -1,7 +1,7 @@
 # Evaluación Final IP Python
 
-Autor: Aaron Carvajal Serrano  
-Curso: IP_IAPython_1
+Nombre: Aaron Carvajal Serrano  
+Proyecto: IP_IAPython_1
 
 ## Descripción
 Proyecto de evaluación final que incluye:
